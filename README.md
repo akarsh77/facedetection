@@ -12,7 +12,8 @@ Face Detection using OpenCV (Open Source Computer Vision Library) and HaarCascad
 4.  haarcascade_frontalface_default.xml
 
 # Install OpenCv 
-pip3 install opencv-python	      //Includes both OpenCv and Numpy
+pip3 install opencv-python	      
+//Includes both OpenCv and Numpy
 
 # Face Detection for Images
 Load the file "face_detection_img.py".
