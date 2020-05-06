@@ -1,4 +1,4 @@
-# FACE DETECTION USING HAAR CASCADE CLASSFIERS
+# FACE DETECTION USING HAAR CASCADE CLASSIFIERS
 
 Face Detection using OpenCV (Open Source Computer Vision Library) and HaarCascade Classifiers for detecting faces  fromImages, Videos and Webcam.
 
